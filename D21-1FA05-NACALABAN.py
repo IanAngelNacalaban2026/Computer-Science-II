@@ -28,3 +28,7 @@ except ValueError:
 # accuracy and save development time. Without these library functions, we would need 
 # to implement complex algorithms for square roots and exponents manually, increasing 
 # the risk of errors and making the code harder to read and maintain.
+
+#--- What did you change and why? ---
+# I further improved the README.md file and gave examples using the formula.
+# I changed the README.md file and improved to show effectivity of the Euclidean Distance Formula.
