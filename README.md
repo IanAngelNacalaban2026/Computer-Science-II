@@ -18,7 +18,7 @@ The program calculates the distance \(d\) between two coordinates \((x_1, y_1)\)
 2. Open your terminal or command prompt.
 3. Run the script using Python:
    ```bash
-   python distance_calculator.py
+   D21-1FA05-NACALABAN.py
    ```
 
 ## Usage Examples
